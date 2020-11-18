@@ -1,7 +1,17 @@
 {
 	"components": {
 	    "x-550136-incident-list-with-actions": {
-	        "innerComponents": []
+	        "innerComponents": [
+				"now-modal",
+				"now-loader",
+				"now-template-card-assist"
+			],
+		"uiBuilder": {
+			"label": "Incident list with actions",
+			"icon" : "sliders-outline",
+			"description" : "List of incidents with actions",
+			"associatedTypes": ["global.core"]
+		}
 	    }
 	},
 	"scopeName": "x_550136_test_in_2"

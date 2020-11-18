@@ -1,1 +1,1 @@
-import './x-550136-incident-list-with-actions';
+import './incident-list-with-actions';
